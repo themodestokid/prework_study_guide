@@ -7,14 +7,14 @@ A study guide for introductory work for the Columbia Engineering coding bootcamp
 
 N/A
 
-# Usage
+## Usage
 
 View study notes on the study guide web page. Open Chrome dev tools to see a message about which topic to study next. 
 
-# Credits
+## Credits
 
 N/A
 
-# License
+## License
 
 See [project license](./LICENSE) in repo
